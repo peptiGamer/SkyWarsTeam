@@ -1,2 +1,3 @@
-# SkyWars
-SkyWars version 1.11.x
+# SkyWarsTeam
+version para la 1.11.x
+no editar
